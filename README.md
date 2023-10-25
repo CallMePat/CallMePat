@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **project and ideas**
 
-- 📫 How to reach me **patienceemaiku@gmail.com**
+- 📫 Ping me about anything **patienceemaiku@gmail.com**
 
 - ⚡ Fun fact **I don't enjoy cooking but i love when i cook. My turkey & egg stew is awesome 😁 but Okro soup is the best.**
 
