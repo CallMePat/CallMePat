@@ -1,25 +1,34 @@
-<h1 align="center">Hi 👋, I'm Patience Emaiku</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+Hey there! 
 
-- 🌱 I’m currently learning **Next Js & Typescript**
+I’m Pat, a frontend engineer based in Lagos, Nigeria, with a passion for building beautiful and functional digital experiences. I specialize in JavaScript, TypeScript, Next.js, and React Native, and love bringing creative ideas to life making sure every pixel is perfect.
 
-- 👯 I’m looking to collaborate on **project and ideas**
+Find me on [LinkedIn](https://www.linkedin.com/in/patcodes/), say hi on [Twitter](https://x.com/PatienceEmaik_), or explore my digital playground at my [portfolio website](https://www.patcodes.pro/).
 
-- 📫 Ping me about anything **patienceemaiku@gmail.com**
+---
 
-- ⚡ Fun fact **I don't enjoy cooking but i love when i cook. My turkey & egg stew is awesome 😁 but Okro soup is the best.**
+#### Fun Facts About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pat_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pat_codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/patience emaiku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patience emaiku" height="30" width="40" /></a>
-<a href="https://instagram.com/_callme.pat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_callme.pat" height="30" width="40" /></a>
-<a href="https://dribbble.com/pat_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pat_codes" height="30" width="40" /></a>
-</p>
+- **Triple Threat in Tech.**
+  I’m not a product designer, but I seriously can’t stand ugly designs, so I always try to make things look better in my code. I’m a frontend developer and a software engineer, which means I don’t just make things pretty; I make them work, too. I’m always learning and leveling up.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **“That Girl” Energy**  
+I’m all about becoming the best version of myself and sharing that journey one aesthetic vlog, code push, and cozy room setup at a time. Cozy minimalism is my vibe! I love making my space a peaceful, intentional escape. I enjoy self-care and body care
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmepat&show_icons=true&locale=en" alt="callmepat" /></p>
+- **Code by Day, Paint by Heart**  
+When I’m not debugging or designing, you’ll find me painting. It’s my way of balancing logic and creativity.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmepat&" alt="callmepat" /></p>
+- **God First, Always**  
+I tithe 10% of my income,a reflection of my faith and discipline.
+
+- **Tiktok & LinkedIn Baddie**  
+I’m building my digital presence strategically, sharing lifestyle and career content to uplift and inspire anyone who needs a confidence boost.
+
+- **I Love Helping People Feel Seen**  
+I’m always thinking of ways to make life easier or better for others.
+
+- **Not Afraid to Start Over**  
+Switching gears in code or pivoting my personal brand? I’m comfortable being a work in progress and that’s where the magic happens.
+
+---
+
+Let’s team up and make the web a more awesome (and fun) place!
