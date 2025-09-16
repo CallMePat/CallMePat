@@ -26,3 +26,11 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/patcodes/), say hi on 
 ---
 
 Let’s build something amazing together!
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gobennovela/gobennovela/output/snake.svg" alt="Snake animation" />
+
+###
