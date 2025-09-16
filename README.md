@@ -5,6 +5,15 @@ I’m Pat, a frontend engineer based in Lagos, Nigeria. I’m passionate about c
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/patcodes/), say hi on [Twitter](https://x.com/PatienceEmaik_), or explore my work at [patcodes.pro](https://www.patcodes.pro/).
 
 ---
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CallMePat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CallMePat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 ## ✨ A Few Fun Facts
 
